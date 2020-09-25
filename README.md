@@ -18,5 +18,5 @@ All data in this repository is published under [CC BY 3.0 DE](https://creativeco
 
 2020, [BerlinOnline Stadtportal GmbH & Co. KG](https://www.berlinonline.net)
 
-Repository: https://github.com/berlinonline/berlin-legacy-datasets
+Repository: https://github.com/berlinonline/berlin-legacy-datasets\
 Last changed: 2020-09-25
