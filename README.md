@@ -6,8 +6,8 @@ This repository is a place to host old datafiles which, for various reasons, can
 
 The following datafiles are included:
 
-- [data/kfz-kennz-d.csv](data/kfz-kennz-d.csv): Regional identifiers used in German number plates (as of 2012). See https://daten.berlin.de/datensaetze/kfz-kennzeichen-deutschland
-- [data/kfz-kennz-diplomat.csv](data/kfz-kennz-diplomat.csv): Identifiers of different countries used in diplomatic number plates in Germany (as of 2012). See https://daten.berlin.de/datensaetze/liste-der-diplomaten-kennzeichen-d
+- [data/kfz-kennz-d.csv](data/kfz-kennz-d.csv): Regional identifiers used in German number plates (as of 2012). See [https://daten.berlin.de/datensaetze/kfz-kennzeichen-deutschland](https://daten.berlin.de/datensaetze/kfz-kennzeichen-deutschland)
+- [data/kfz-kennz-diplomat.csv](data/kfz-kennz-diplomat.csv): Identifiers of different countries used in diplomatic number plates in Germany (as of 2012). See [https://daten.berlin.de/datensaetze/liste-der-diplomaten-kennzeichen-d](https://daten.berlin.de/datensaetze/liste-der-diplomaten-kennzeichen-d)
 
 
 ## License
@@ -18,5 +18,5 @@ All data in this repository is published under [CC BY 3.0 DE](https://creativeco
 
 2020, [BerlinOnline Stadtportal GmbH & Co. KG](https://www.berlinonline.net)
 
-Repository: https://github.com/berlinonline/berlin-legacy-datasets<br/>
+Repository: [https://github.com/berlinonline/berlin-legacy-datasets](https://github.com/berlinonline/berlin-legacy-datasets)<br/>
 Last changed: 2020-09-25
