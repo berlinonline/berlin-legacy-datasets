@@ -1,0 +1,331 @@
+id,description,url,district,street,house_nr,zip,town
+1,Abenteuerlicher Bauspielplatz Kolle 37,,Pankow,Kollwitzstraße,35,10405,Berlin
+2,Abenteuerspielplatz Köpenick,,Treptow-Köpenick,Alte Kaulsdorfer Straße,18,12555,Berlin
+3,Abenteuerspielplatz Marie,,Pankow,Marienburger Straße,42,10405,Berlin
+4,Abenteuerspielplatz Waslala,https://www.berlin.de/kultur-und-tickets/tipps/kinder/kinderbauernhoefe/3077897-3076561-abenteuerspielplatz-und-kinderbauernhof-.html,Treptow-Köpenick,Venusstraße,88,12524,Berlin
+5,Abenteuerspielplatz Wildhüterweg,https://www.berlin.de/special/sport-und-fitness/adressen/spielplatz/abenteuerspielplatz-wildhueterweg-d36217f31c1993e90ed6a227c41bcda6.html,Neukölln,Wildhüterweg,2,12353,Berlin
+6,Aktivspielplatz Franz B.,,Pankow,Blankenfelder Straße,106,13127,Berlin
+7,Alia Mädchenzentrum,,Friedrichshain-Kreuzberg,Wrangelstraße,84,10997,Berlin
+8,Amerika Gedenkbibliothek,https://www.berlin.de/sehenswuerdigkeiten/3561110-3558930-amerika-gedenk-bibliothek.html,Friedrichshain-Kreuzberg,Blücherplatz,1,10961,Berlin
+9,Amt für Soziales,https://service.berlin.de/standort/324549/,Marzahn-Hellersdorf,Riesaer Straße,94,12627,Berlin
+10,ASP Inge Abenteuerspielplatz Karow,,Pankow,Ingwäonenweg,62,13125,Berlin
+11,Ausstellungszentrum Pyramide,https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/amt-fuer-weiterbildung-und-kultur/kultur/artikel.260286.php,Marzahn-Hellersdorf,Riesaer Straße,94,12627,Berlin
+12,AWO Begegnungszentrum,,Friedrichshain-Kreuzberg,Adalbertstraße,23,10997,Berlin
+13,Bayouma-Haus,,Friedrichshain-Kreuzberg,Frankfurter Allee,110,10247,Berlin
+14,Begegnungsstätte Charlottenstraße 85,,Friedrichshain-Kreuzberg,Charlottenstraße,85,10969,Berlin
+15,Begegnungsstätte Falckensteinstraße,,Friedrichshain-Kreuzberg,Falckensteinstraße,6,10997,Berlin
+16,Begegnungsstätte Gitschiner Str. 38,,Friedrichshain-Kreuzberg,Gitschiner Straße,38,10969,Berlin
+17,Begegnungsstätte Judith Auer,https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/familie/artikel.280283.php,Lichtenberg,Judith-Auer-Straße,8,10369,Berlin
+18,Berlin Pavillon,,Mitte,Scheidemannstraße,1,10557,Berlin
+19,Berliner Ensemble,https://www.berlin.de/tickets/theater/tipps/buehnen/2224912-2903274-berliner-ensemble.html,Mitte,Bertolt-Brecht-Platz,1,10117,Berlin
+20,Berliner Landeszentrale für politische Bildung,https://www.berlin.de/politische-bildung/,Charlottenburg-Wilmersdorf,Hardenbergstraße,22,10623,Berlin
+21,Berlinische Galerie - Museum für Moderne Kunst,https://www.berlin.de/museum/3109283-2926344-berlinische-galerie.html,Friedrichshain-Kreuzberg,Alte Jakobstraße,128,10969,Berlin
+22,Bezirksamt (Premnitzer Straße),https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/amt-fuer-buergerdienste/wohnungsamt/,Marzahn-Hellersdorf,Premnitzer Straße,13,12681,Berlin
+23,Bezirksamt Lichtenberg Bürgeramt 1,https://service.berlin.de/standort/122252/,Lichtenberg,Egon-Erwin-Kisch-Straße,106,13059,Berlin
+24,Bezirksmuseum Alt-Marzahn 51,https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/amt-fuer-weiterbildung-und-kultur/kultur/artikel.260283.php,Marzahn-Hellersdorf,Alt-Marzahn,51,12685,Berlin
+25,Bezirkszentralbibliothek Mark Twain,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/bezirkszentralbibliothek-mark-twain-08082d6dad077fe83e6bbe27cb9783fd.html,Marzahn-Hellersdorf,Marzahner Promenade,55,12679,Berlin
+26,Bibl. Lankwitz,https://www.berlin.de/stadtbibliothek-steglitz-zehlendorf/bibliotheken/stadtteilbibliothek-lankwitz/,Steglitz-Zehlendorf,Bruchwitzstraße,37,12247,Berlin
+27,Bibliothek am Luisenbad,https://www.berlin.de/stadtbibliothek-mitte/bibliotheken/bibliothek-am-luisenbad/,Mitte,Travemünder Straße,2,13357,Berlin
+28,Bibliothek Kaulsdorf,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/stadtteilbibliothek-kaulsdorf-nord-4f144789b4fc475f0baf5001.html,Marzahn-Hellersdorf,Cecilienplatz,12,12619,Berlin
+29,Bibliothek Mahlsdorf,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/stadtteilbibliothek-mahlsdorf-08082d6dad077fe83e6bbe27cb97e399.html,Marzahn-Hellersdorf,Alt-Mahlsdorf,24,12623,Berlin
+30,Bibliothek Tiergarten Süd,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/bibliothek-tiergartensued-08082d6dad077fe83e6bbe27cb991739.html,Mitte,Lützowstraße,27,10785,Berlin
+31,Wohnhaus,,Reinickendorf,Wilhelmsruher Damm,228,13435,Berlin
+32,Brandenburger Tor,https://www.berlin.de/sehenswuerdigkeiten/3560266-3558930-brandenburger-tor.html,Mitte,Pariser Platz,8,10117,Berlin
+33,Brunnenplatz,,Reinickendorf,Senftenberger Ring,3,13439,Berlin
+34,Bruno Lösche Bibliothek,https://www.berlin.de/stadtbibliothek-mitte/bibliotheken/bruno-loesche-bibliothek/,Mitte,Perleberger Straße,33,10559,Berlin
+35,Bröhan-Museum,https://www.berlin.de/museum/3109311-2926344-broehanmuseum.html,Charlottenburg-Wilmersdorf,Schloßstraße,1,14059,Berlin
+36,Bundeskanzler-Willy-Brandt-Stiftung ,https://www.berlin.de/museum/3109938-2926344-bundeskanzlerwillybrandtstiftung-forum-w.html,Mitte,Unter den Linden,62,10117,Berlin
+37,Bürgeramt Zehlendorf,https://service.berlin.de/standort/122267/,Steglitz-Zehlendorf,Kirchstraße,01. Mär,14163,Berlin
+38,Bürgeramt Zwickauer Damm,https://service.berlin.de/standort/122296/,Neukölln,Zwickauer Damm,52,12353,Berlin
+39,Bürodienstgebäude (Klosterstraße 36),,Spandau,Klosterstraße,36,13581,Berlin
+40,C&A,,Charlottenburg-Wilmersdorf,Wilmersdorfer Straße,124,10627,Berlin
+41,Café Marlene,,Pankow,Kastanienallee,103,10435,Berlin
+42,Café Pink,https://www.berlin.de/adressen/verein/cafe-pink-kiezoase-schoeneberg-e-v-4f143a5fb4fc475f0b961f00.html,Tempelhof-Schöneberg,Goltzstraße,40,10781,Berlin
+43,Carlo-Schmid-Oberschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/carloschmidoberschule-4f1446abb4fc475f0b541101.html,Spandau,Lutoner Straße,15,13581,Berlin
+44,Caspar-David-Friedrich-Grundschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/caspardavidfriedrichschule-0fa5b7ed99d4364596ab79e037161960.html,Marzahn-Hellersdorf,Alte Hellersdorfer Straße,7,12629,Berlin
+45,Chic,,Charlottenburg-Wilmersdorf,Bismarckstraße,10,10825,Berlin
+46,Christian-Morgenstern-Grundschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/grundschule/christianmorgensterngrundschule-d058f42b22117f877e8cdc827b421958.html,Spandau,Räcknitzer Steig,12,13593,Berlin
+47,Christliches Sozialwerk Berlin e.V. ,,Lichtenberg,Landsberger Allee,225,13055,Berlin
+48,Club Atelier 89,,Pankow,Hanns-Eisler-Straße,7,10409,Berlin
+49,Dali Berlin,https://www.berlin.de/museum/3127782-2926344-dali-die-ausstellung-am-potsdamer-platz.html,Mitte,Leipziger Platz,7,10117,Berlin
+50,Der Alte,,Pankow,Wiltbergstraße,27,13125,Berlin
+51,Der Würfel - Netzwerk Spielkultur ,,Pankow,Wolfgang-Heinz-Straße,45,13125,Berlin
+52,Egon-Erwin-Kisch-Bibliothek,https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/bildung/artikel.298028.php,Lichtenberg,Frankfurter Allee,149,10365,Berlin
+53,Ehm-Welk-Bibliothek,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/mittelpunktbibliothek-ehm-welk-08082d6dad077fe83e6bbe27cb97ca54.html,Marzahn-Hellersdorf,Alte Hellersdorfer Straße,125,12629,Berlin
+54,Erich-Weinert-Bibliothek,https://www.berlin.de/bibliotheken-mh/bibliotheken/stadtteilbibliothek-erich-weinert/,Marzahn-Hellersdorf,Helene-Weigel-Platz,4,12681,Berlin
+55,Ernst-Haeckel-Gesamtschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/ernsthaeckelschule-4f1445eab4fc475f0b86dd00.html,Marzahn-Hellersdorf,Luckenwalder Straße,53,12629,Berlin
+56,Ernst-Reuter-Sportfeld,https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/schul-und-sportamt/sport/artikel.109625.php,Steglitz-Zehlendorf,Onkel-Tom-Straße,40,14169,Berlin
+57,Esswirtschaft Forum,,Keine Zuordnung,Rudower Chaussee,24,12489,Berlin
+58,Experimentalbox - Jugendmedienclub,,Pankow,Hosemannstraße,14,10409,Berlin
+59,Familien- und Nachbarschaftszentrum Wrangelkiez PFH,,Friedrichshain-Kreuzberg,Cuvrystraße,13,10997,Berlin
+60,Familienzentrum Der Blankenburger,,Pankow,Gernroder Straße,6,13129,Berlin
+61,Familienzentrum Upsala,,Pankow,Upsalaer Straße,6,13189,Berlin
+62,Fernsehturm,https://www.berlin.de/sehenswuerdigkeiten/3560707-3558930-fernsehturm.html,Mitte,Panoramastraße,1,10178,Berlin
+63,FEZ-Berlin,https://www.berlin.de/sehenswuerdigkeiten/3561064-3558930-freizeit-und-erholungszentrum-wuhlheide.html,Treptow-Köpenick,Straße zum FEZ,0,12459,Berlin
+64,FHXB Friedrichshain-Kreuzberg Museum,https://www.berlin.de/museum/3131583-2926344-friedrichshainkreuzberg-museum.html,Friedrichshain-Kreuzberg,Adalbertstraße,95,10999,Berlin
+65,Franchise-Nehmer der McDonald´s Deutschland Inc..,,Charlottenburg-Wilmersdorf,Kantstraße,111,10627,Berlin
+66,Freizeitclub Heiligensee,https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/einrichtungen/seniorenfreizeitstaetten/artikel.105149.php,Reinickendorf,Alt-Heiligensee,39,13503,Berlin
+67,Freizeitclub Tegel,https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/einrichtungen/seniorenfreizeitstaetten/artikel.105110.php,Reinickendorf,Alt-Tegel,43,13507,Berlin
+68,Freizeitzentrum für Senioren und Behinderte Adelheidallee,https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/einrichtungen/seniorenfreizeitstaetten/artikel.105099.php,Reinickendorf,Adelheidallee,5,13507,Berlin
+69,Friedrichstadtpalast,https://www.berlin.de/tickets/theater/tipps/buehnen/2224953-2903274-friedrichstadtpalast.html,Mitte,Friedrichstraße,107,10117,Berlin
+70,Galerie M,https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/amt-fuer-weiterbildung-und-kultur/kultur/artikel.259925.php,Marzahn-Hellersdorf,Marzahner Promenade,46,12679,Berlin
+71,Gartenhaus an der MARIE,,Pankow,Winsstraße,49,10405,Berlin
+72,Gemeinschaftshaus Gropiusstadt,,Neukölln,Bat-Yam-Platz,1,12353,Berlin
+73,Georg-Klingenberg-Schule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/klingenbergschule-4f14478fb4fc475f0ba15201.html,Marzahn-Hellersdorf,Alberichstraße,24,12683,Berlin
+74,Gesobau-Zentrale,https://www.berlin.de/special/immobilien-und-wohnen/1126487-739619-gesobau.html,Reinickendorf,Wilhelmsruher Damm,142,13439,Berlin
+76,Gesundheitsamt Charlottenburg-Wilmersdorf,https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/gesundheitsamt/,Charlottenburg-Wilmersdorf,Hohenzollerndamm,174,10713,Berlin
+77,Gesundheitsamt Marzahn-Hellersdorf - Kinder-und Jugendgesundheitsdienst (JAG),https://service.berlin.de/standort/324392/,Marzahn-Hellersdorf,Janusz-Korczak-Straße,32,12627,Berlin
+78,Gesundheitsamt Neukölln Sozialpsychiatrischer Dienst,https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/gesundheitsamt/sozialpsychiatrischer-dienst/artikel.274596.php,Neukölln,Gutschmidtstraße,31,12359,Berlin
+79,Gesundheitsamt Sozialpsychologische Beratung,https://service.berlin.de/standort/325763/,Mitte,Reinickendorfer Straße,60,13347,Berlin
+80,Hansabibliothek,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/hansabibliothek-08082d6dad077fe83e6bbe27cb993a3e.html,Mitte,Altonaer Straße,15,10557,Berlin
+81,Haus am Waldsee,https://www.berlin.de/museum/3137760-2926344-haus-am-waldsee.html,Steglitz-Zehlendorf,Argentinische Allee,30,14163,Berlin
+82,Haus der Jugend Bunte Kuh,,Pankow,Bernkasteler Straße,78,13088,Berlin
+83,Haus der Jugend Zehlendorf,,Steglitz-Zehlendorf,Argentinische Allee,28,14163,Berlin
+84,Haus der Wannsee Konferenz,https://www.berlin.de/museum/3108697-2926344-haus-der-wannseekonferenz.html,Steglitz-Zehlendorf,Am Großen Wannsee,56,14109,Berlin
+85,Haus of fun,,Tempelhof-Schöneberg,Tirschenreuther Ring,67,12279,Berlin
+86,Heinrich-von-Kleist-Bibliothek,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/stadtteilbibliothek-heinrich-von-kleist-4f143f10b4fc475f0bec7b00.html,Marzahn-Hellersdorf,Havemannstraße,17,12689,Berlin
+87,Heinz-Brandt-Schule (Schülerklub),https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/heinzbrandtschule-4f144742b4fc475f0b5a3a01.html,Pankow,Langhansstraße,120,13086,Berlin
+88,"Hertha-Müller-Haus Begegnungs-, Beratungs- und Freizeitzentrum für ältere Bürger",https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/amt-fuer-soziales/materielle-hilfen-sozialdienst-seniorenbetreuung-und-ehrenamtlicher-dienst/artikel.102118.php,Steglitz-Zehlendorf,Argentinische Allee,89,14163,Berlin
+89,Innovations- und Gründerzentrum,,Treptow-Köpenick,Rudower Chaussee,29,12489,Berlin
+90,JFE Betonoase,,Lichtenberg,Dolgenseestraße,11,10319,Berlin
+91,JFE Die Nische,,Marzahn-Hellersdorf,Louis-Lewin-Straße,40,12627,Berlin
+92,JFE Eastside,,Lichtenberg,Volkradstraße,6,10319,Berlin
+93,JFE Fair,,Marzahn-Hellersdorf,Marzahner Promenade,51,12679,Berlin
+94,JFE Fallobst,,Pankow,Ibsenstraße,17,10439,Berlin
+95,JFE Full House,,Lichtenberg,Ribnitzer Straße,30,13051,Berlin
+96,JFE Future,,Lichtenberg,Schweriner Ring,27,13059,Berlin
+97,JFE Holzwurmhaus,,Lichtenberg,Falkenberger Chaussee,141,13057,Berlin
+98,JFE Kontaktladen V.i.P.,,Lichtenberg,Rüdickenstraße,29,13053,Berlin
+99,JFE Leo‘ Hütte,,Lichtenberg,Grevesmühlener Straße,43,13059,Berlin
+100,JFE Linse,,Lichtenberg,An der Parkaue,25,10367,Berlin
+101,JFE Mikado,,Lichtenberg,Egon-Erwin-Kisch-Straße,1,13059,Berlin
+102,JFE Napf,,Lichtenberg,Hauffstraße,13,10317,Berlin
+103,JFE NTC / EFB,,Lichtenberg,Erieseering,4,10319,Berlin
+104,JFE Oktopus,,Pankow,Parkstraße,12,13127,Berlin
+105,JFE Orange Flip,,Lichtenberg,Gensinger Straße,56,10315,Berlin
+106,JFE Rainbow,,Marzahn-Hellersdorf,Hönower Straße,30,12623,Berlin
+107,JFE Tube,,Lichtenberg,Herzbergstraße,160,10367,Berlin
+108,JFH Hellersdorfer Straße,,Marzahn-Hellersdorf,Hellersdorfer Straße,27,12621,Berlin
+109,JFH Tangermünder Straße,,Marzahn-Hellersdorf,Tangermünder Straße,2,12627,Berlin
+110,Johann-Strauß-Grundschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/grundschule/johannstraussgrundschule-4f144680b4fc475f0bb60601.html,Marzahn-Hellersdorf,Cecilienstraße,81,12683,Berlin
+111,Johannes-Bobrowski-Bibliothek,https://www.berlin.de/stadtbibliothek-treptow-koepenick/bibliotheken/friedrichshagen/,Treptow-Köpenick,Peter-Hille-Straße,1,12587,Berlin
+112,Jonas‘ Haus,,Spandau,Schulstraße,3,13591,Berlin
+113,JuFaZ,,Lichtenberg,Eitelstraße,19,10317,Berlin
+114,Jugendamt am Halleschen Ufer,https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/jugendamt/,Friedrichshain-Kreuzberg,Frankfurter Allee,35-37,10247,Berlin
+115,Jugendamt Bezirksamt Lichtenberg,https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/behoerdenwegweiser/artikel.250455.php,Lichtenberg,Große-Leege-Straße,103,13055,Berlin
+116,Jugendamt Neukölln Regionaler Dienst Süd Team 1 und 2,https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/jugendamt/regionen/artikel.285924.php,Neukölln,Rudower Straße,8,12351,Berlin
+117,Jugendclub Balzer-Platz,,Marzahn-Hellersdorf,Köpenicker Straße,184,12683,Berlin
+118,Jugendclub Feuerwache,,Friedrichshain-Kreuzberg,Marchlewskistraße,6,10243,Berlin
+119,Jugendclub Feuerwache,,Neukölln,Hannemannstraße,74,12347,Berlin
+120,Jugendclub Klinke,,Marzahn-Hellersdorf,Bruno-Baum-Straße,56,12685,Berlin
+121,Jugendclub Liebig 19,,Friedrichshain-Kreuzberg,Liebigstraße,19,10247,Berlin
+122,Jugendclub Maxim,,Pankow,Charlottenburger Straße,117,13086,Berlin
+123,Jugendclub NW80,,Neukölln,Neudecker Weg,80,12355,Berlin
+124,Jugendclub Rudolf-Leonhard-Straße,,Marzahn-Hellersdorf,Rudolf-Leonhard-Straße,2,12679,Berlin
+125,Jugendclub Trapez,,Neukölln,Käthe-Frankenthal-Weg,12,12355,Berlin
+126,Jugendclub Ufo,,Neukölln,Lipschitzallee,27,12351,Berlin
+127,Jugendeinrichtung DR Kongo,,Mitte,Kongostraße,28,13351,Berlin
+128,Jugendfarm Moritzhof ,https://www.berlin.de/kultur-und-tickets/tipps/kinder/kinderbauernhoefe/3076989-3076561-jugendfarm-moritzhof.html,Pankow,Schwedter Straße,90,10437,Berlin
+129,Jugendförderung Pankow info,https://www.berlin.de/jugendamt-pankow/,Pankow,Berliner Allee,252,13088,Berlin
+130,Jugendfreizeiteinrichtung Anna Landsberger,,Marzahn-Hellersdorf,Prötzeler Ring,13,12679,Berlin
+131,Jugendfreizeiteinrichtung Bungalow,,Tempelhof-Schöneberg,Mariendorfer Damm,117,12109,Berlin
+132,Jugendfreizeiteinrichtung Düppel,,Steglitz-Zehlendorf,Lissabonallee,8,14163,Berlin
+133,Jugendfreizeiteinrichtung Hessenring,,Tempelhof-Schöneberg,Hessenring,47,12101,Berlin
+134,Jugendfreizeiteinrichtung Joker,,Marzahn-Hellersdorf,Alte Hellersdorfer Straße,3,12629,Berlin
+135,Jugendfreizeiteinrichtung K 14,,Pankow,Achillesstraße,14,13125,Berlin
+136,Jugendfreizeitstätte M24,,Pankow,Mühlenstraße,24,13187,Berlin
+137,Jugendfreizeitstätte M24 Garage Pankow (Außenstelle),,Pankow,Hadlichstraße,3,13187,Berlin
+138,Jugendhaus Königstadt,,Pankow,Saarbrücker Straße,22,10405,Berlin
+139,Jugendklub Zwergenhöhle,,Lichtenberg,Spittastraße,40,10317,Berlin
+140,Jugendzentrum Grenzallee,,Neukölln,Grenzallee,5,12057,Berlin
+141,Jugendzentrum YO!22,,Neukölln,Oderstraße,22,12051,Berlin
+142,JuJo Jugendzentrum Johannisthal,,Treptow-Köpenick,Winckelmannstraße,56,12487,Berlin
+143,Kietz-Klub-Köpenick (Karl-Kunger Str. 30),,Treptow-Köpenick,Karl-Kunger-Straße,30,12435,Berlin
+144,Kiez-Café,,Friedrichshain-Kreuzberg,Petersburger Straße,92,10247,Berlin
+145,Kiezspinne,,Lichtenberg,Schulze-Boysen-Straße,38,10365,Berlin
+146,Kinder- u. Jugendfreizeiteinrichtung Toller,,Pankow,Tollerstraße,31,13158,Berlin
+147,Kinder- u. Jugendzentrum W 24,,Pankow,Wichertstraße,24,10439,Berlin
+148,Kinder- und Jugendclub go,,Pankow,Schönhauser Allee,165,10435,Berlin
+149,Kinderfreizeiteinrichtung Kulti,,Pankow,Majakowskiring,58,13156,Berlin
+150,KInderfreizeiteinrichtung Rakäthe,,Pankow,Pasteurstraße,22,10407,Berlin
+151,Kinderring Berlin e. V.,https://www.berlin.de/special/sport-und-fitness/adressen/jugendzentrum/oc-23-4f144618b4fc475f0b6aeb00.html,Pankow,Langhansstraße,23,13086,Berlin
+152,Klubhaus - Spandau,,Spandau,Westerwaldstraße,13,13589,Berlin
+153,Kombibad Gropiusstadt,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/kombibad-gropiusstadt-4fa0e315be8077fc28000001.html,Neukölln,Lipschitzallee,33,12351,Berlin
+154,Kombibad Seestraße Hallenbad,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/kombibad-seestrasse-4f143a00b4fc475f0b8b1000.html,Mitte,Seestraße,80,13347,Berlin
+155,Komische Oper,,Mitte,Behrenstraße,55,10117,Berlin
+156,Kommunale Begegnungsstätte Neustrelitzstraße,,Lichtenberg,Neustrelitzer Straße,63,13055,Berlin
+157,Kommunale Begegnungsstätte „Rusche 43“,https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/familie/artikel.280284.php,Lichtenberg,Ruschestraße,43,10367,Berlin
+158,Kommunikationszentrum am Ostpreußendamm,https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/amt-fuer-soziales/materielle-hilfen-sozialdienst-seniorenbetreuung-und-ehrenamtlicher-dienst/artikel.102122.php,Steglitz-Zehlendorf,Ostpreußendamm,52,12207,Berlin
+159,Kulturbrauerei,https://www.berlin.de/sehenswuerdigkeiten/3560308-3558930-kulturbrauerei.html,Pankow,Schönhauser Allee,36,10435,Berlin
+160,KulturGut Marzahn,,Marzahn-Hellersdorf,Alt-Marzahn,23,12685,Berlin
+161,Kulturring in Berlin e.V.,,Marzahn-Hellersdorf,Carola-Neher-Straße,1,12619,Berlin
+162,Kunsthaus Flora,https://www.berlin.de/kultur-und-tickets/adressen/kulturzentrum/kunsthaus-flora-9caa3c9a746cd0c1bab6e89e274075d7.html,Marzahn-Hellersdorf,Florastraße,113,12623,Berlin
+163,Kunstverein Tiergarten Galerie Nord,,Mitte,Turmstraße,75,10551,Berlin
+164,Lambda BB e.V.,,Pankow,Sonnenburger Straße,69,10437,Berlin
+165,Landhaus Rosenthal,,Pankow,Hauptstraße,94,13158,Berlin
+166,Leo-Bochard MS,,Steglitz-Zehlendorf,Martin-Buber-Straße,21,14163,Berlin
+167,MACHmit! Museum für Kinder,https://www.berlin.de/museum/3108799-2926344-machmit-museum-fuer-kinder.html,Pankow,Senefelderstraße,5,10437,Berlin
+168,Martin-Buber-Oberschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/martinbuberoberschule-4f143ef1b4fc475f0be27900.html,Spandau,Im Spektefeld,33,13589,Berlin
+169,Museumsdorf Düppel (rekonstruierte Mittelalt. Dorfanlage),https://www.berlin.de/museum/3108478-2926344-museumsdorf-dueppel.html,Steglitz-Zehlendorf,Clauertstraße,11,14163,Berlin
+170,Musikschule Maratstr. 182,,Marzahn-Hellersdorf,Maratstraße,182,12683,Berlin
+171,Myliusgarten,,Treptow-Köpenick,Myliusgarten,20,12587,Berlin
+172,Mädchensportzentrum Pia Olymp,,Lichtenberg,Am Berl,25,13051,Berlin
+173,Nachbarschaftszentrum,,Neukölln,Wutzkyallee,88,12353,Berlin
+174,Neues Wohnen im Kiez GmbH,,Mitte,Wallstraße,43,10179,Berlin
+175,Olympiastadion,https://www.berlin.de/kultur-und-tickets/arena/3317373-3316653-olympiastadion-berlin.html,Charlottenburg-Wilmersdorf,Olympischer Platz,3,14053,Berlin
+176,Ordnungsamt Neukölln,https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/ordnungsamt/,Neukölln,Juliusstraße,67,12051,Berlin
+177,Ordnungsamt Steglitz-Zehlendorf,https://service.berlin.de/standort/122307/,Steglitz-Zehlendorf,Unter den Eichen,1,12203,Berlin
+178,Palais Podewil,https://www.berlin.de/sehenswuerdigkeiten/3561378-3558930-palais-podewil.html,Mitte,Klosterstraße,68,10179,Berlin
+179,Paracelsus-Bad,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/paracelsus-bad-4f143a00b4fc475f0b851000.html,Reinickendorf,Roedernallee,200,13407,Berlin
+180,Phantalisa Mädchentreff,,Friedrichshain-Kreuzberg,Kadiner Straße,9,10243,Berlin
+181,Philipp-Schaeffer-Bibliothek,https://www.berlin.de/kultur-und-tickets/adressen/bibliothek/bezirkszentralbibliothek-philipp-schaeffer-08082d6dad077fe83e6bbe27cb97f2aa.html,Mitte,Brunnenstraße,181,10119,Berlin
+182,Prater (Biergarten),https://www.berlin.de/sehenswuerdigkeiten/3561216-3558930-prater.html,Pankow,Kastanienallee,7,10435,Berlin
+183,Rathaus Marzahn-Hellersdorf,https://www.berlin.de/ba-marzahn-hellersdorf/https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/rudolfvirchowschule-4f1444d7b4fc475f0b40cb00.html,Marzahn-Hellersdorf,Alice-Salomon-Platz,3,12627,Berlin
+184,Rathaus Neukölln,https://service.berlin.de/standort/122285/,Neukölln,Karl-Marx-Straße,83,12043,Berlin
+185,Ribbeck Haus,,Reinickendorf,Senftenberger Ring,54,13435,Berlin
+186,Rotes Rathaus,https://www.berlin.de/sehenswuerdigkeiten/3559880-3558930-rotes-rathaus.html,Mitte,Jüdenstraße,1,10178,Berlin
+187,Rudolf-Virchow-Oberschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/sekundarschule/rudolfvirchowschule-4f1444d7b4fc475f0b40cb00.html,Marzahn-Hellersdorf,Glambecker Ring,,12679,Berlin
+188,Schabracke,https://www.berlin.de/special/sport-und-fitness/adressen/jugendzentrum/jugendfreizeitheim-schabracke-4f1446f8b4fc475f0ba12301.html,Pankow,Pestalozzistraße,8,13187,Berlin
+189,Schloß Biesdorf,https://www.berlin.de/sehenswuerdigkeiten/3561871-3558930-schloss-und-schlosspark-biesdorf.html,Marzahn-Hellersdorf,Alt-Biesdorf,55,12683,Berlin
+190,Schwartzsche Villa,http://www.berlin.de/museum/3109584-2926344-schwartzsche-villa.html,Steglitz-Zehlendorf,Grunewaldstraße,55,12165,Berlin
+191,Schwimmhalle Allendeviertel,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-allendeviertel-4f144671b4fc475f0ba00201.html,Treptow-Köpenick,Pablo-Neruda-Straße,5,12559,Berlin
+192,Schwimmhalle Anton-Saefkow-Platz ,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-antonsaefkowplatz-4f143a01b4fc475f0b8f1000.html,Lichtenberg,Anton-Saefkow-Platz,1,10369,Berlin
+193,Schwimmhalle Baumschulenweg,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-baumschulenweg-4f143a00b4fc475f0b871000.html,Treptow-Köpenick,Neue Krugallee,209,12437,Berlin
+194,Schwimmhalle Ernst-Thälmann Park,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-ernstthaelmannpark-4f143a00b4fc475f0b841000.html,Pankow,Lilli-Henoch-Straße,20,10405,Berlin
+195,Schwimmhalle Fischerinsel,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-fischerinsel-4fa0e248be8077d526000001.html,Mitte,Fischerinsel,11,10179,Berlin
+196,Schwimmhalle Helene-Weigl-Platz - Helmut Behrendt,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-helmut-behrendt-4f143a8eb4fc475f0b712500.html,Marzahn-Hellersdorf,Helene-Weigel-Platz,9,12681,Berlin
+197,Schwimmhalle Holzmarktstraße,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-holzmarktstrasse-4f143a00b4fc475f0b831000.html,Friedrichshain-Kreuzberg,Holzmarktstraße,51,10179,Berlin
+198,Schwimmhalle Kaulsdorf,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-kaulsdorf-4f143a8eb4fc475f0b6f2500.html,Marzahn-Hellersdorf,Clara-Zetkin-Weg,13,12619,Berlin
+199,Schwimmhalle Sewanstraße,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-sewanstrasse-4f1439c0b4fc475f0b3b0000.html,Lichtenberg,Sewanstraße,229,10319,Berlin
+200,Schwimmhalle Zingster Straße ,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/schwimmhalle-zingster-strasse-4fa0e1a9be8077d526000000.html,Lichtenberg,Zingster Straße,16,13051,Berlin
+201,Science Center Spectrum des Deutschen Technikmuseums Berlin,https://www.berlin.de/museum/3109101-2926344-science-center-spectrum-des-deutschen-te.html,Friedrichshain-Kreuzberg,Möckernstraße,26,10963,Berlin
+202,"Senatsverwaltung für Arbeit, Integration und Frauen",,Mitte,Potsdamer Straße,65,10785,Berlin
+203,"Senatsverwaltung für Arbeit, Integration und Frauen (Oranienstr. 106)",https://www.berlin.de/sen/ias/,Friedrichshain-Kreuzberg,Oranienstraße,106,10969,Berlin
+204,Seniorenbegegnungsstätte Hönower Straße,,Lichtenberg,Hönower Straße,30,10318,Berlin
+205,Seniorenclub Hermsdorf,https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/einrichtungen/seniorenfreizeitstaetten/artikel.105105.php,Pankow,Berliner Straße,105,13189,Berlin
+206,Seniorenclub Steglitz,https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/amt-fuer-soziales/materielle-hilfen-sozialdienst-seniorenbetreuung-und-ehrenamtlicher-dienst/artikel.102120.php,Steglitz-Zehlendorf,Selerweg,18,12169,Berlin
+207,Seniorenfreizeitstätte ,,Tempelhof-Schöneberg,Boelckestraße,102,12101,Berlin
+208,Seniorenfreizeitstätte (Stargardtstraße),https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/einrichtungen/seniorenfreizeitstaetten/artikel.105144.php,Reinickendorf,Stargardtstraße,3,13407,Berlin
+209,Seniorenfreizeitstätte Hans-Rosenthal-Haus,,Steglitz-Zehlendorf,Bolchener Straße,5,14167,Berlin
+210,Seniorenfreizeitstätte Süd,,Steglitz-Zehlendorf,Teltower Damm,226,14167,Berlin
+211,Seniorenfreizeitstätten,,Mitte,Otawistraße,46,13351,Berlin
+212,Seniorengruppe der Griechische Demokratische Gemeinde Berlin e.V. im Griechischen Kulturzentrum,,Steglitz-Zehlendorf,Mittelstraße,33,12167,Berlin
+213,Seniorenklub Hakenfelde,,Spandau,Helen-Keller-Weg,10,13587,Berlin
+214,Seniorenklub Lindenufer,,Spandau,Mauerstraße,10,13597,Berlin
+215,Seniorenklub Südpark,,Spandau,Weverstraße,38,13595,Berlin
+216,Seniorenwohnhaus Wilhelmstadt,,Spandau,Adamstraße,27,13595,Berlin
+217,Sozialamt,https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/amt-fuer-soziales/,Mitte,Müllerstraße,146,13353,Berlin
+218,Sozialdiakonische Arbeit Lichtenberg-Oberspree GmbH ,https://www.berlin.de/adressen/verein/sozialdiakonische-jugendarbeit-lichtenberg-ev-4f1439efb4fc475f0bef0c00.html,Lichtenberg,Pfarrstraße,97,10317,Berlin
+219,Sozio-Kulturelles Zentrum Ratz-Fatz,https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/aemter/amt-fuer-weiterbildung-und-kultur/kultur/artikel.90678.php,Treptow-Köpenick,Schnellerstraße,81,12439,Berlin
+220,Spandauer Zitadelle,https://www.berlin.de/sehenswuerdigkeiten/3561606-3558930-zitadelle-spandau.html,Spandau,Am Juliusturm,64,13599,Berlin
+221,Spielplatz Finsterwalder Straße 13,,Reinickendorf,Finsterwalder Straße,13,13435,Berlin
+222,Spielplatz Senftenberger Ring 12,,Reinickendorf,Senftenberger Ring,12,13439,Berlin
+223,Spielplatz Senftenberger Ring 44e,,Reinickendorf,Senftenberger Ring,44,13435,Berlin
+224,Spielplatz Senftenberger Ring 70,,Reinickendorf,Senftenberger Ring,70,13435,Berlin
+225,Spielplatz Wilhelmsruher Damm 111,,Reinickendorf,Wilhelmsruher Damm,111,13439,Berlin
+226,Sport und Lehrschwimmhalle Schöneberg,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/sport-und-lehrschwimmhalle-schoeneberg-4f14478db4fc475f0be95101.html,Tempelhof-Schöneberg,Sachsendamm,11,10829,Berlin
+227,Sportanlage am Schäfersee,,Reinickendorf,Rütlistraße,19,13407,Berlin
+228,Sportanlage Scharnweberstraße,,Reinickendorf,Uranusweg,34,13405,Berlin
+229,Sportanlage Schönfließer Straße,,Reinickendorf,Schönfließer Straße,19,13465,Berlin
+230,Sportanlage Thurgauer Straße,,Reinickendorf,Thurgauer Straße,55,13407,Berlin
+231,Sportforum Eisschnelllaufhalle,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Weißenseer Weg,53,13053,Berlin
+232,Sportforum Eissporthalle,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Weißenseer Weg,53,13053,Berlin
+233,Sportforum Große Halle,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Weißenseer Weg,53,13053,Berlin
+234,Sportforum Lili-Henoch-Halle,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Fritz-Lesch-Straße,32,13053,Berlin
+235,Sportforum Olympiastützpunkt,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Fritz-Lesch-Straße,29,13053,Berlin
+236,Sportforum Pförtner / Parkplatz,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Weißenseer Weg,53,13053,Berlin
+237,Sportforum Trainingshalle,https://www.berlin.de/sen/inneres/sport/sportstaetten/sportforum/,Lichtenberg,Weißenseer Weg,53,13053,Berlin
+238,Sporthalle Hatzfeldtallee,,Reinickendorf,Hatzfeldtallee,19,13509,Berlin
+239,SportJugendBildungsZentrum Lücke,,Lichtenberg,Lückstraße,18,10317,Berlin
+240,SportJugendClub Buch,,Pankow,Karower Chaussee,169,13125,Berlin
+241,SportJugendZentrum ,,Pankow,Blankenfelder Straße,50,13127,Berlin
+242,Sportkomplex,,Lichtenberg,Paul Heyse Str,25,10407,Berlin
+243,Sportplatz Aroser Allee,,Reinickendorf,Aroser Allee,184,13407,Berlin
+244,Sportplatz Berliner Straße,,Reinickendorf,Berliner Straße,75,13507,Berlin
+245,Sportplatz Elchdamm,,Reinickendorf,Elchdamm,171,13503,Berlin
+246,Sportplatz Finsterwalder Straße,,Reinickendorf,Finsterwalder Straße,58,13435,Berlin
+247,Sportplatz Freiheitsweg,,Reinickendorf,Freiheitsweg,20,13407,Berlin
+248,Sportplatz Göschenstraße,,Reinickendorf,Göschenstraße,7,13437,Berlin
+249,Sportplatz Hatzfeldtallee,,Reinickendorf,Hatzfeldtallee,33,13509,Berlin
+250,Sportplatz Kienhorststraße,,Reinickendorf,Kienhorststraße,170,13403,Berlin
+251,Sportplatz Ollenhauer Straße,,Reinickendorf,Ollenhauer Straße,64,13403,Berlin
+252,Sportplatz Schluchseestraße,,Reinickendorf,Schluchseestraße,68,13469,Berlin
+253,Sportplatz Seebadstraße,,Reinickendorf,Am Ried,3,13467,Berlin
+254,Sportplatz Städt Reinickendorf,,Reinickendorf,Heidenheimer Straße,53,13467,Berlin
+255,Sportplatz Tietzstraße,,Reinickendorf,Tietzstraße,41,13509,Berlin
+256,Sportplatz Welzower Steig,,Reinickendorf,Königshorster Straße,13,13439,Berlin
+257,Stadion Lichterfelde,https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/aemter/schul-und-sportamt/sport/artikel.109623.php,Steglitz-Zehlendorf,Ostpreußendamm,3,12207,Berlin
+259,Stadtbad Mitte,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/stadtbad-mitte-4f143a5cb4fc475f0b341f00.html,Mitte,Gartenstraße,5,10115,Berlin
+260,Stadtbad Tiergarten,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/stadtbad-tiergarten-4f143a00b4fc475f0b8d1000.html,Mitte,Seydlitzstraße,7,10557,Berlin
+261,Stadtbad Wilmersdorf,https://www.berlin.de/special/sport-und-fitness/adressen/schwimmbad/stadtbad-wilmersdorf-i-4f143a00b4fc475f0b8c1000.html,Charlottenburg-Wilmersdorf,Mecklenburgische Straße,80,10713,Berlin
+262,Torstraße ,https://www.berlin.de/special/shopping/einkaufsmeilen/1761564-1724955-torstrasse.html,Mitte,Torstraße,139,10119,Berlin
+263,Ulmen-Grundschule,https://www.berlin.de/special/jobs-und-ausbildung/adressen/grundschule/ulmengrundschule-4f143f31b4fc475f0b1c7e00.html,Marzahn-Hellersdorf,Ulmenstraße,79,12621,Berlin
+264,Verwaltungsakadmie,https://www.berlin.de/vak/,Mitte,Turmstraße,86,10559,Berlin
+265,Volksbühne Berlin,https://www.berlin.de/tickets/theater/tipps/buehnen/2225122-2903274-volksbuehne.html,Mitte,Linienstraße,227,10178,Berlin
+266,Volkshochschule Berlin Lichtenberg,https://www.berlin.de/vhs/volkshochschulen/lichtenberg/,Lichtenberg,Paul-Junius-Straße,71,10369,Berlin
+267,Volkshochschule (Fried.-Kreuz.),https://www.berlin.de/vhs/volkshochschulen/friedrichshain-kreuzberg/,Friedrichshain-Kreuzberg,Wassertorstraße,4,10969,Berlin
+268,Volkshochschule Marzahn-Hellersdorf,https://www.berlin.de/vhs/volkshochschulen/marzahn-hellersdorf/,Marzahn-Hellersdorf,Mark-Twain-Straße,27,12627,Berlin
+269,Volkshochschule Mitte 1,https://www.berlin.de/vhs/volkshochschulen/mitte/,Mitte,Linienstraße,162,10115,Berlin
+270,Volkshochschule Mitte 2,https://www.berlin.de/vhs/volkshochschulen/mitte/,Mitte,Antonstraße,37,13347,Berlin
+271,Volkshochschule Neukölln (Elfriede-Kuhr-Straße),https://www.berlin.de/vhs-neukoelln/unterrichtsorte/,Neukölln,Elfriede-Kuhr-Straße,11,12355,Berlin
+272,Volkshochschule Neukölln (Karlsgartenstraße),https://www.berlin.de/vhs-neukoelln/unterrichtsorte/,Neukölln,Karlsgartenstraße,6,12049,Berlin
+273,Volkshochschule Neukölln (Werbellinstraße),https://www.berlin.de/vhs-neukoelln/unterrichtsorte/,Neukölln,Werbellinstraße,77,12053,Berlin
+274,Volkshochschule Steglitz-Zehlendorf,https://www.berlin.de/vhs/volkshochschulen/steglitz-zehlendorf/,Steglitz-Zehlendorf,Onkel-Tom-Straße,14,14169,Berlin
+275,Werk 9,,Mitte,Markgrafenstraße,26,10117,Berlin
+276,Wichura-Club,,Steglitz-Zehlendorf,Wichurastraße,59,12249,Berlin
+277,Wilmersdorfer Arcaden,https://www.berlin.de/special/shopping/einkaufscenter/1999137-1724954-wilmersdorfer-arcaden.html,Charlottenburg-Wilmersdorf,Wilmersdorfer Straße,46,10627,Berlin
+278,WISTA Hauptgebäude 12.2,https://www.berlin.de/sen/wirtschaft/wirtschaft/technologiezentren-zukunftsorte-smart-city/zukunftsorte/adlershof/artikel.109390.php,Treptow-Köpenick,"Rudower Chaussee 17-19,",17,12489,Berlin
+279,Zentrum für Biotechnologie und Umwelt 1,,Treptow-Köpenick,Volmerstraße,7,12489,Berlin
+280,Zentrum für Biotechnologie und Umwelt 2,,Treptow-Köpenick,Magnusstraße,11,12489,Berlin
+281,Zentrum für IT und Medien,,Treptow-Köpenick,Albert-Einstein-Straße,14,12489,Berlin
+282,Zentrum für Photovoltaik und Erneuerbare Energien,,Treptow-Köpenick,Johann-Hittorf-Straße,8,12489,Berlin
+283,Zeiss-Großplanetarium,https://www.berlin.de/museum/3108981-2926344-zeissgrossplanetarium.html,Pankow,Prenzlauer Allee,80,10405,Berlin
+284,Märkisches Zentrum - Marktplatz,https://www.berlin.de/special/shopping/einkaufscenter/1998459-1724954-maerkisches-zentrum.html,Reinickendorf,Senftenberger Ring,13,13439,Berlin
+285,Wohnhaus Gerichtstraße 12 (Gesobau),,Mitte,Gerichtstraße,12,13347,Berlin
+286,Wohnhaus Uferstraße 19 (Gesobau),,Mitte,Uferstraße,19,13357,Berlin
+287,Wohnhaus Zechliner Straße 8 (Gesobau),,Mitte,Zechliner Straße,8,13359,Berlin
+288,Wohnhaus Wiesenstraße 62 (Gesobau),,Mitte,Wiesenstraße,62,13357,Berlin
+289,Wohnhaus Sparrstraße 19 (Gesobau),,Mitte,Sparrstraße,19,13353,Berlin
+290,Wohnhaus Luxemburger Straße 5 (Gesobau),,Mitte,Luxemburger Straße,5,13353,Berlin
+291,Wohnhaus Hildegartstraße 9 (Gesobau),,Charlottenburg-Wilmersdorf,Hildegartstraße,9,10715,Berlin
+292,Wohnhaus Luxemburger Straße 1 (Gesobau),,Mitte,Luxemburger Straße,1,13353,Berlin
+293,Wohnhaus Schwyzer Straße 13 (Gesobau),,Mitte,Schwyzer Straße,13,13349,Berlin
+294,Wohnhaus Gartenplatz 4 (Gesobau),,Mitte,Gartenplatz,4,13355,Berlin
+295,Wohnhaus Maxstraße 11 (Gesobau),,Mitte,Maxstraße,11,13347,Berlin
+296,Wohnhaus Buttmannstraße 15 (Gesobau),,Mitte,Buttmannstraße,15,13357,Berlin
+297,Wohnhaus Gartenstraße 63 (Gesobau),,Mitte,Gartenstraße,63,13355,Berlin
+298,Wohnhaus Schönwalderstraße 1 (Gesobau),,Spandau,Schönwalderstraße,1,13585,Berlin
+299,Wohnhaus Nazarethkirchstraße 49a (Gesobau),,Mitte,Nazarethkirchstraße,49a,13347,Berlin
+300,Wohnhaus Schulstraße 5 (Gesobau),,Mitte,Schulstraße,5,13347,Berlin
+301,Wohnhaus Stockholmer Straße 24 (Gesobau),,Mitte,Stockholmer Straße,24,13359,Berlin
+302,Wohnhaus Bellermannstraße 73 (Gesobau) ,,Mitte,Bellermannstraße,73,13357,Berlin
+303,Wohnhaus Groninger Straße 48 (Gesobau),,Mitte,Groninger Straße,48,13347,Berlin
+304,Wohnhaus Bornemannstraße 14 (Gesobau),,Mitte,Bornemannstraße,14,13357,Berlin
+305,Wohnhaus Am Volkspark 73 (Gesobau),,Charlottenburg-Wilmersdorf,Am Volkspark,73,10715,Berlin
+306,Wohnhaus Koblenzerstraße 1 (Gesobau),,Charlottenburg-Wilmersdorf,Koblenzerstraße,1,10715,Berlin
+307,Wohnhaus Tietzstraße 55 (Gesobau),,Reinickendorf,Tietzstraße,55,13509,Berlin
+308,Wohnhaus Borsigwalder Weg 44 (Gesobau),,Reinickendorf,Borsigwalder Weg,44,13509,Berlin
+309,Wohnhaus Klinnerweg 59 (Gesobau),,Reinickendorf,Klinnerweg,59,13509,Berlin
+310,Wohnhaus Borsigwalder Weg 24 (Gesobau),,Reinickendorf,Borsigwalder Weg,24,13509,Berlin
+311,Wohnhaus Conradstraße 41 (Gesobau),,Reinickendorf,Conradstraße,41,13509,Berlin
+312,Wohnhaus Syrische Straße 12 (Gesobau),,Mitte,Syrische Straße,12,13349,Berlin
+313,Wohnhaus Holländer Straße 112 (Gesobau),,Mitte,Holländer Straße,112,13357,Berlin
+314,Wohnhaus Ackerstraße 113 (Gesobau),,Mitte,Ackerstraße,113,13355,Berlin
+315,Wohnhaus Gartenstraße 57 (Gesobau),,Mitte,Gartenstraße,57,13355,Berlin
+316,Wohnhaus Gartenstraße 65 (Gesobau),,Mitte,Gartenstraße,65,13355,Berlin
+317,Wohnhaus Gartenstraße 60 (Gesobau),,Mitte,Gartenstraße,60,13355,Berlin
+318,Wohnhaus Ackerstraße 115 (Gesobau),,Mitte,Ackerstraße,115,13355,Berlin
+319,Wohnhaus Ungarnstraße 83 (Gesobau),,Mitte,Ungarnstraße,83,13349,Berlin
+320,Wohnhaus Schulstraße 24 (Gesobau),,Mitte,Schulstraße,24,13353,Berlin
+321,Wohnhaus Ackerstraße 105 (Gesobau),,Mitte,Ackerstraße,105,13355,Berlin
+322,Wohnhaus Bundesplatz 12 (Gesobau),,Charlottenburg-Wilmersdorf,Bundesplatz,12,10715,Berlin
+323,Wohnhaus Räuschstraße 40 (Gesobau),,Reinickendorf,Räuschstraße,40,13509,Berlin
+324,Haus der Begegnung M3,,Marzahn,Mehrower Allee,3,12687,Berlin
+325,Stadtteilzentrum Biesdorf - Ball e.V.,,Biesdorf,Alt Biesdorf,15,12683,Berlin
+326,Bürgerhaus Südspitze,,Marzahn,Marchwitza Straße,24-26,12681,Berlin
+327,Stadtteilzentrum Marzahn Mitte - Volkssolidarität LV Berlin e.V.,,Marzahn,Marzahner Promenade,38,12627,Berlin
+328,JFE Kompass,,Alt-Hellersdorf,Kummerower Ring,42,12619,Berlin
+329,"Stadtteilzentrum Marzahn Süd ""Mosaik"" - Wuhletal gGmbH",,Marzahn,Altlandsberger Platz,2,12685,Berlin
+330,Stadtteilzentrum Hellerdorf Süd - Klub 74,,Alt-Hellersdorf,Am Baltenring,74,12619,Berlin
+331,Stadtteilzentrum Marzahn NordWest - Kiek in gGmbH,,Marzahn,Ahrensfelder Chaussee,148,12689,Berlin
+332,Bürgertreff Lichterfelde West,,Lichterfelde,Hans-Sachs-Straße,4,12205,Berlin
